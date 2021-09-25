@@ -1,2 +1,3 @@
 # hotel_communication_protocol
 一种酒店串口通讯协议
+基于RS485的酒店通讯协议
